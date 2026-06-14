@@ -94,3 +94,7 @@ I use open source projects as a way to learn from real-world codebases, understa
 * Open Source Software
 * Software Architecture
 * Performance Engineering
+
+## Open Source Contributions
+
+- [RocketMQ Rust Contribution](opensource/rocketmq.md)
