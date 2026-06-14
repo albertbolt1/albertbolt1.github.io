@@ -97,4 +97,5 @@ I use open source projects as a way to learn from real-world codebases, understa
 
 ## Open Source Contributions
 
-- [RocketMQ Rust Contribution](opensource/rocketmq.md)
+- [RocketMQ Rust Contribution](/rocketmq.md)
+- [Sherpa ONNX bindings Contribution](/sherpaonnx.md)
